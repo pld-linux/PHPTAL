@@ -9,6 +9,7 @@ Release:	0.%{_snap}.1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://unc.dl.sourceforge.net/sourceforge/phptal/%{name}-%{version}%{_snap}.tar.gz
+# Source0-md5:	151f4bb4799d8c8fe6646a25f6069897
 URL:		http://phptal.sourceforge.net/
 BuildRequires:	rpm-php-pearprov >= 4.0.2-98
 Requires:	php-GetText
