@@ -16,6 +16,9 @@ URL:		http://phptal.motion-twin.com/
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-common >= 3:5.0.0
 Requires:	php-pear
+Obsoletes:	php-Algo_map
+Obsoletes:	php-GetText
+Obsoletes:	php-Types
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
