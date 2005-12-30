@@ -1,0 +1,4 @@
+- updated to 1.0.10, requires nothing else than PHP5 (according to README)
+- using PEAR build system
+- NB! this module and php-Algo_map, php-GetText, php-Types are NOT
+  required by current mediawiki. remove this and them from ftp?
