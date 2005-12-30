@@ -7,7 +7,7 @@ Summary:	PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP
 Summary(pl):	PHPTAL jest implementacj± Zope Page Templates (ZPT) w PHP
 Name:		PHPTAL
 Version:	1.0.10
-Release:	0.2
+Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://phptal.motion-twin.com/files/%{name}-%{version}.tar.gz
