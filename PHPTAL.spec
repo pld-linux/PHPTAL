@@ -15,6 +15,7 @@ Source0:	http://phptal.motion-twin.com/files/%{name}-%{version}.tar.gz
 URL:		http://phptal.motion-twin.com/
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-common >= 3:5.0.0
+Requires:	php-pear
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
