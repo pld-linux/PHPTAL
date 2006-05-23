@@ -14,6 +14,7 @@ Source0:	http://phptal.motion-twin.com/files/%{name}-%{version}.tar.gz
 # Source0-md5:	e3b117de6f6d40431d87193f190cc403
 URL:		http://phptal.motion-twin.com/
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
+BuildRequires:	rpmbuild(macros) >= 1.300
 Requires:	php-common >= 3:5.0.0
 Requires:	php-pear
 Obsoletes:	php-Algo_map
