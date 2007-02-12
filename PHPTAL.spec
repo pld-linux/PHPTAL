@@ -4,7 +4,7 @@
 %define		_pearname	%{_class}
 
 Summary:	PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP
-Summary(pl.UTF-8):   PHPTAL jest implementacją Zope Page Templates (ZPT) w PHP
+Summary(pl.UTF-8):	PHPTAL jest implementacją Zope Page Templates (ZPT) w PHP
 Name:		PHPTAL
 Version:	1.0.11
 Release:	1
